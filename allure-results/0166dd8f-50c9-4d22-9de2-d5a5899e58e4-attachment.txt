@@ -1,0 +1,8 @@
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWU3Yzc3MWY4NmJhNTFhNjU3YTY4NjgiLCJ1c2VyRW1haWwiOiJhYmhpc2hla2d1cDg4QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjk5NTgyNDU2OTUsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3Nzk4MDk0MjQsImV4cCI6MTgxMTM2NzAyNH0.8HNFzbDR0Pv-YxpfkNExbyBgbwTO1Q4Av6tBuPA4g4E',
+  userId: '69e7c771f86ba51a657a6868',
+  message: 'Login Successfully'
+}
+orderIdFromResponse: 6a15bc9017ee3e78ba9e0f2e
+rowOrderId: 6a15bc9017ee3e78ba9e0f2e
+orderIdDetails: 6a15bc9017ee3e78ba9e0f2e

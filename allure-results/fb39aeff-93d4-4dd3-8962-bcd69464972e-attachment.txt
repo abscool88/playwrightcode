@@ -1,0 +1,41 @@
+Let's Shop
+https://rahulshettyacademy.com/api/ecom/auth/login 200
+https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js
+https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js 200
+https://rahulshettyacademy.com/api/ecom/product/get-all-products
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/product/get-all-products 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959232316.jpeg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959158182.jpg
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+3
+product found
+https://rahulshettyacademy.com/api/ecom/user/add-to-cart
+https://rahulshettyacademy.com/api/ecom/user/add-to-cart 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-products/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-products/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959232316.jpeg
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+product is visible in carttrue
+https://rahulshettyacademy.com/api/ecom/product/get-product-detail/6960eac0c941646b7a8b3e68
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868
+https://rahulshettyacademy.com/api/ecom/product/get-product-detail/6960eac0c941646b7a8b3e68 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959232316.jpeg
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69e7c771f86ba51a657a6868 200

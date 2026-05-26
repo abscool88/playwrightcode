@@ -4,7 +4,6 @@ test('Flight search API test', async ({page}) => {
 
     const flightHelper = new FlightHelper(page);
     await flightHelper.searchFlights('Boston', 'London');
-    //await page.getByRole('button',{name:'Find Flights'}).click();
   
      
     await page.locator('//tbody/tr/td').first().waitFor();

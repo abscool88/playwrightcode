@@ -1,17 +1,16 @@
 class FlightHelper {
     constructor(page) {
         this.page = page;
-        this.departureCityInput = '#departureCity';
-        this.arrivalCityInput = '#arrivalCity'; 
-
     }
-    async enterDepartureCity(city) {
-       await this.departureCityInput.selectOption(city);
-    }   
-
-    async enterDestination(city) {
-       await this.arrivalCityInput.selectOption(city);
-    }   
-
-
+    
+    async searchFlights(departure, arrival) {
+        await this.page.goto('https://www.blazedemo.com');
+        const departureCity = this.page.locator('select[name="fromPort"]');
+        const arrivalCity = this.page.locator('select[name="toPort"]');
+        await departureCity.selectOption(departure);
+        await arrivalCity.selectOption(arrival);
+        await this.page.getByRole('button', { name: 'Find Flights' }).click();
+    }
 }
+
+module.exports = { FlightHelper };

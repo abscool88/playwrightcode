@@ -1,0 +1,6 @@
+{
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWU3Yzc3MWY4NmJhNTFhNjU3YTY4NjgiLCJ1c2VyRW1haWwiOiJhYmhpc2hla2d1cDg4QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjk5NTgyNDU2OTUsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3Nzk4MDkzODMsImV4cCI6MTgxMTM2Njk4M30.y8l1-Qp6DYTRgzkX9SNU-s7iASD59kdhXzjRjYWDjvE',
+  userId: '69e7c771f86ba51a657a6868',
+  message: 'Login Successfully'
+}
+orderIdFromResponse: 6a15bc6717ee3e78ba9e0e90
