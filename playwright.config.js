@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig, devices } from '@playwright/test';
+const { defineConfig, devices } = require('@playwright/test');
 
 /**
  * Read environment variables from file.
@@ -12,11 +12,14 @@ import { defineConfig, devices } from '@playwright/test';
 /**
  * @see https://playwright.dev/docs/test-configuration
  */
-const config =({
+const config = defineConfig({
   testDir: './tests',
   timeout: 50 * 1000, // global timeout for each test
   expect: { timeout: 50 * 1000 }, // assertions timeout
-  reporter: 'html',
+  reporter: [
+    ['line'],
+    ['allure-playwright', { outputFolder: 'allure-results' }],
+  ],
   // /* Run tests in files in parallel */
   // fullyParallel: true,
   // /* Fail the build on CI if you accidentally left test.only in the source code. */
@@ -86,9 +89,4 @@ const config =({
   // },
 });
 
-module.exports = {
-  reporter: [
-    ['line'], 
-    ['allure-playwright', { outputFolder: 'allure-results' }]
-  ],
-};
+module.exports = config;
